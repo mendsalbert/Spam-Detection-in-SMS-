@@ -43,7 +43,7 @@ This indicates that out of 1,115 messages in the test set, 961 true 'ham' messag
 
 5 'ham' messages were incorrectly classified as 'spam', 141 true 'spam' messages were correctly classified, and 8 'spam' messages were incorrectly classified as 'ham'.
 
-The visual representation of the model's performance is shown in the bar chart below, where the actual and predicted class counts are compared.
+The visual representation of the model's performance is shown in the bar chart below, where the actual and predicted class counts are compared..
 
 ![Actual vs Predicted Class Counts](output.png)
 
