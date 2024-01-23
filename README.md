@@ -60,4 +60,4 @@ The project successfully demonstrates the use of machine learning to classify SM
 ## References
 
 - Scikit-learn Documentation
-- Python's Natural Language Toolkit (NLTK)__
+- Python's Natural Language Toolkit (NLTK)
